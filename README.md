@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Joanna Priscilla 👋
 
-<!--
-**jjoannapriscilla-tech/jjoannapriscilla-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering Student
 
-Here are some ideas to get you started:
+✝️ My strength comes from God. I'm learning, growing, and building with purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “I can do all things through Christ which strengtheneth me.”
+> — Philippians 4:13
+
+I'm currently learning and building my programming skills through hands-on projects.
+
+### 💻 What I'm Learning
+
+- 🐍 Python
+- 💻 C Programming
+- 🌐 HTML & CSS
+- 🔧 Git & GitHub
+- 📚 Problem Solving and Programming Fundamentals
+
+### 🚀 Projects
+
+#### 📊 Student Grade Calculator
+A Python program that calculates:
+- Student total marks
+- Average marks
+- Grade
+
+🔗 [View Project](https://github.com/jjoannapriscilla-tech/Student-grade-calculator)
+
+### 🌱 Currently
+
+- Building beginner-friendly programming projects
+- Improving my problem-solving skills
+- Learning web development
+- Exploring software development
+
+### 📫 Connect With Me
+
+- GitHub: [@jjoannapriscilla-tech](https://github.com/jjoannapriscilla-tech)
+- Email: joannapriscilla@karunya.edu.in
